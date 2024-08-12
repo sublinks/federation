@@ -1,4 +1,4 @@
-FROM golang:1.22.5
+FROM golang:1.22.6
 LABEL maintainer="Sublinks Core Developers <hello@sublinks.org>"
 LABEL description="Federation service for Sublinks"
 
